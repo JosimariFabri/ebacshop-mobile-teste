@@ -9,7 +9,7 @@ export let bsConf = {
             "appium:deviceName": "Samsung Galaxy S22 Ultra",
             "appium:platformVersion": "12.0",
             "appium:automationName": "UIAutomator2",
-            "appium:app": "bs://481b8b7163a669e6c765e69edc3e29b71120e0fe"
+            "appium:app": "bs://ea3a44318995436e65a89f66e846c82969f88cee"
         }
     ] : [
         {
@@ -17,7 +17,7 @@ export let bsConf = {
             "appium:deviceName": "iPhone 15",
             "appium:platformVersion": "17",
             "appium:automationName": "XCUITest",
-            "appium:app": "bs://f1abddedd1b87aa26b333736e1aa3ff8337ab8d9"
+            "appium:app": "bs://a3e5aa823c471ff64f99a7dfc092063ddb5b32e9"
         }
     ],
     commonCapabilities: {
